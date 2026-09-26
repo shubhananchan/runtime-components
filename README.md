@@ -1,0 +1,2 @@
+This repository stores configuration (rc) files for tools like bash and vim to keep personalized setups consistent across machines. Clone this repo onto any new system to easily restore your preferences instead of setting them up manually. Run install.sh to copy and automatically place each configuration file into your home directory. Note that files are copied rather than linked, so changes in the repo won't update your machine until you rerun the installation script.
+
